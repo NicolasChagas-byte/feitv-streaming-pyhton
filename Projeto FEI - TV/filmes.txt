@@ -1,0 +1,100 @@
+1|Vingadores: Ultimato|Acao|2019|Heróis tentam reverter o estalo de Thanos|9800000
+2|Avatar|Ficcao Cientifica|2009|Humano se envolve com povo alienígena em Pandora|9500000
+3|Titanic|Romance|1997|Amor proibido no navio que afunda|9700002
+4|Batman: O Cavaleiro das Trevas|Acao|2008|Batman enfrenta o Coringa em Gotham|9600000
+5|Interestelar|Ficcao Cientifica|2014|Viagem espacial para salvar a humanidade|9400000
+6|Coringa|Drama|2019|Origem do vilão mais famoso de Gotham|9300000
+7|Velozes e Furiosos 7|Acao|2015|Corridas e vingança com equipe unida|8900000
+8|Homem-Aranha: Sem Volta Para Casa|Acao|2021|Multiverso traz antigos vilões|9600000
+9|Harry Potter e a Pedra Filosofal|Fantasia|2001|Garoto descobre que é um bruxo|9200000
+10|Frozen: Uma Aventura Congelante|Animacao|2013|Princesa com poderes de gelo foge do reino|9000000
+11|O Senhor dos Anéis: A Sociedade do Anel|Fantasia|2001|Jornada para destruir o anel|9500000
+12|Os Vingadores|Acao|2012|Heróis se unem contra invasão alienígena|9300000
+13|Pantera Negra|Acao|2018|Rei protege Wakanda de ameaças|9100000
+14|Jurassic World|Aventura|2015|Parque de dinossauros sai do controle|8800000
+15|Matrix|Ficcao Cientifica|1999|Realidade é uma simulAcao controlada|9400000
+16|Gladiador|Drama|2000|General busca vingança em Roma|9200000
+17|Deadpool|Acao|2016|Anti-herói irreverente busca vingança|8900000
+18|Toy Story|Animacao|1995|Brinquedos ganham vida quando humanos saem|9300000
+19|Procurando Nemo|Animacao|2003|Peixe atravessa oceano para achar filho|9100000
+20|Up: Altas Aventuras|Animacao|2009|Idoso voa com casa cheia de balões|9000000
+21|Shrek|Animacao|2001|Ogro resgata princesa e encontra amor|9200000
+22|Homem de Ferro|Acao|2008|Bilionário cria armadura tecnológica|9100000
+23|Capitão América: Guerra Civil|Acao|2016|Heróis entram em conflito interno|9200000
+24|Duna|Ficcao Cientifica|2021|Jovem lidera destino em planeta deserto|9000000
+25|O Lobo de Wall Street|Drama|2013|Corretor vive excessos no mercado financeiro|9100000
+26|Clube da Luta|Drama|1999|Homem cria clube secreto de lutas|9400000
+27|Se Beber, Não Case!|Comedia|2009|Amigos perdem noivo após festa|8900000
+28|A Origem|Ficcao Cientifica|2010|Invasão de sonhos para implantar ideias|9500000
+29|Django Livre|Drama|2012|Escravo liberto busca esposa|9200000
+30|Bastardos Inglórios|Guerra|2009|Grupo caça nazistas na guerra|9100000
+31|Mad Max: Estrada da Fúria|Acao|2015|Fuga intensa em mundo pós-apocalíptico|910000
+32|O Regresso|Drama|2015|Homem luta para sobreviver na natureza|9000000
+33|Gravidade|Ficcao Cientifica|2013|Astronauta tenta sobreviver no espaço|8900000
+34|A Chegada|Ficcao Cientifica|2016|Linguista tenta se comunicar com alienígenas|8800000
+35|Bohemian Rhapsody|Drama|2018|História da banda Queen e Freddie Mercury|9200000
+36|La La Land: Cantando Estações|Romance|2016|Amor entre artista e músico em LA|9000000
+37|Whiplash: Em Busca da Perfeição|Drama|2014|Jovem baterista enfrenta professor rígido|9100000
+38|Parasita|Drama|2019|Família pobre se infiltra na casa de ricos|930000
+39|Corra!|Terror|2017|Jovem descobre segredo assustador da namorada|9000000
+40|It: A Coisa|Terror|2017|Crianças enfrentam entidade assustadora|9100000
+41|O Iluminado|Terror|1980|Homem enlouquece em hotel isolado|920000
+42|InvocAcao do Mal|Terror|2013|Investigadores enfrentam caso paranormal|9100000
+43|Annabelle|Terror|2014|Boneca possuída causa terror|8800000
+44|Hereditário|Terror|2018|Família lida com forças sobrenaturais|8900000
+45|Jogos Vorazes|Acao|2012|Jovens lutam em arena mortal|9000000
+46|Crepúsculo|Romance|2008|Garota se apaixona por vampiro|9200000
+47|O Rei Leão|Animacao|1994|Leão enfrenta destino como rei|9500000
+48|Aladdin|Animacao|1992|Jovem encontra gênio mágico|9200000
+49|Moana: Um Mar de Aventuras|Animacao|2016|Jovem navega para salvar seu povo|9000000
+50|Zootopia: Essa Cidade é o Bicho|Animacao|2016|Coelha policial resolve caso misterioso|8900000
+51|Divertida Mente|Animacao|2015|Emoções controlam mente de uma garota|9200000
+52|Os Incríveis|Animacao|2004|Família de super-heróis volta à Acao|9100000
+53|Minions|Animacao|2015|Criaturas amarelas buscam vilão mestre|8800000
+54|Meu Malvado Favorito|Animacao|2010|Vilão adota crianças e muda de vida|9000000
+55|Kung Fu Panda|Animacao|2008|Panda improvável se torna herói|9100000
+56|Homem-Aranha: No Aranhaverso|Animacao|2018|Vários Homens-Aranha de dimensões diferentes se unem|9300000
+57|Doutor Estranho|Acao|2016|Médico aprende artes místicas após acidente|9000000
+58|Thor: Ragnarok|Acao|2017|Thor tenta salvar Asgard da destruição|9100000
+59|Guardiões da Galáxia|Acao|2014|Grupo improvável protege a galáxia|920000
+60|Capitã Marvel|Acao|2019|Heroína descobre seu passado e poderes|8900000
+61|Logan|Acao|2017|Wolverine envelhecido protege uma jovem mutante|9200000
+62|X-Men: Dias de um Futuro Esquecido|Acao|2014|Mutantes tentam impedir futuro apocalíptico|9100000
+63|Venom|Acao|2018|Jornalista se funde com simbionte alienígena|8800000
+64|Transformers|Acao|2007|Robôs alienígenas lutam na Terra|9000000
+65|Pacific Rim|Acao|2013|Robôs gigantes enfrentam monstros do mar|8700000
+66|Piratas do Caribe: A Maldição do Pérola Negra|Aventura|2003|Pirata excêntrico busca navio amaldiçoado|9300000
+67|Star Wars: O Despertar da Força|Ficcao Cientifica|2015|Nova gerAcao enfrenta o lado sombrio|9200000
+68|Rogue One: Uma História Star Wars|Ficcao Cientifica|2016|Rebeldes roubam planos da Estrela da Morte|9100000
+69|Star Wars: Episódio III – A Vingança dos Sith|Ficcao Cientifica|2005|Anakin se torna Darth Vader|9300000
+70|Blade Runner 2049|Ficcao Cientifica|2017|Caçador descobre segredo sobre androides|8900000
+71|O Jogo da ImitAcao|Drama|2014|Matemático decifra código nazista|9000000
+72|A Teoria de Tudo|Drama|2014|Vida do físico Stephen Hawking|9000000
+73|Green Book: O Guia|Drama|2018|Pianista e motorista enfrentam racismo|9200000
+74|12 Anos de Escravidão|Drama|2013|Homem livre é sequestrado e escravizado|9100000
+75|O Grande Gatsby|Drama|2013|Milionário misterioso vive por um amor|8900000
+76|As Branquelas|Comedia|2004|Agentes se disfarçam de socialites|9200000
+77|Gente Grande|Comedia|2010|Amigos se reencontram após anos|8900000
+78|Todo Mundo em Pânico|Comedia|2000|Paródia de filmes de terror|9000000
+79|Click|Comedia|2006|Homem controla vida com controle remoto|9100000
+80|Projeto X: Uma Festa Fora de Controle|Comedia|2012|Festa sai completamente do controle|9000000
+81|O Diabo Veste Prada|Drama|2006|Jovem trabalha para chefe exigente da moda|9100000
+82|As Vantagens de Ser Invisível|Drama|2012|Adolescente introvertido enfrenta traumas|9000000
+83|A Culpa é das Estrelas|Romance|2014|Jovens com câncer vivem um amor intenso|9200000
+84|Como Eu Era Antes de Você|Romance|2016|Jovem muda vida de homem tetraplégico|9100000
+85|Diário de uma Paixão|Romance|2004|Amor atravessa anos e dificuldades|9300000
+86|Truque de Mestre|Suspense|2013|Ilusionistas realizam grandes roubos|9000000
+87|Ilha do Medo|Suspense|2010|Detetive investiga hospital psiquiátrico|9300000
+88|Seven: Os Sete Crimes Capitais|Suspense|1995|Detetives caçam serial killer temático|9400000
+89|Garota Exemplar|Suspense|2014|Desaparecimento revela casamento perturbador|9200000
+90|Prenda-me Se For Capaz|Drama|2002|Jovem golpista engana autoridades|9300000
+91|O Grande Truque|Drama|2006|Rivalidade entre mágicos obsessivos|9200000
+92|A Rede Social|Drama|2010|CriAcao do Facebook e seus conflitos|9100000
+93|Ford vs Ferrari|Drama|2019|Corrida para vencer Le Mans|9000000
+94|Top Gun: Maverick|Acao|2022|Piloto veterano treina nova gerAcao|9400000
+95|Missão: Impossível - Efeito Fallout|Acao|2018|Ethan Hunt impede desastre global|9200000
+96|John Wick: De Volta ao Jogo|Acao|2014|Ex-assassino busca vingança pessoal|9300000
+97|Kingsman: Serviço Secreto|Acao|2014|Jovem entra em agência secreta|9000000
+98|O Lado Bom da Vida|Drama|2012|Homem tenta reconstruir vida após crise|9100000
+99|Ela|Romance|2013|Homem se apaixona por inteligência artificial|9000000
+100|Ex Machina: Instinto Artificial|Ficcao Cientifica|2014|Programador testa consciência de robô|8900000
